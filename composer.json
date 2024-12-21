@@ -1,18 +1,18 @@
 {
-    "name": "laravel/laravel",
+    "name": "aldoyh/laravel-vue-crud-starter",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Updated version 11+",
     "keywords": [
         "framework",
         "laravel"
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0",
+        "php": "^8.4",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.4.5",
-        "laravel/framework": "^8.12",
+        "laravel/framework": "^11.35",
         "laravel/passport": "^10.0",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.1"
